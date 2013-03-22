@@ -1,6 +1,7 @@
 # Poetry Repo
 * Poe
 * Tolkien
+* Ono
 
 ## Coming Soon
 * Shelley
